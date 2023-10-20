@@ -21,7 +21,7 @@ ___
 
 ___
 ### Прохожу курсы  
-- **RedRover.SCHOOL**  ([ссылка]([https://qa.guru/](https://redrover.school/ru))) стэк:
+- **RedRover.SCHOOL**  ([ссылка](https://redrover.school/ru)) стэк:
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40"/>
