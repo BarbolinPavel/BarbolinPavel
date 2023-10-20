@@ -3,13 +3,13 @@
 
 ___
 ### О себе
-Работаю ручным тестировщиком ПО в компании Bolid ([ссылка](https://bolid.ru))
-Прошел курсы автоматизации, но на этом не останавливаюсь, учусь дальше. Стараюсь уделять учебе 2-5 часов в день.
-Мое резюме на **"[HH](https://hh.ru/resume/ab535050ff091709250039ed1f384b5a48445a)"**
-Со мной можно связаться по электронной почте **frost1449@gmail.com**
+Работаю ручным тестировщиком ПО в компании Bolid ([ссылка](https://bolid.ru))  
+Прошел курсы автоматизации, но на этом не останавливаюсь, учусь дальше. Стараюсь уделять учебе 2-5 часов в день.  
+Мое резюме на **"[HH](https://hh.ru/resume/ab535050ff091709250039ed1f384b5a48445a)"**  
+Со мной можно связаться по электронной почте **frost1449@gmail.com**  
 
 ___
-### Пройденные курсы
+### Пройденные курсы  
 - QA.GURU  ([ссылка](https://qa.guru/)) стэк:
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" width="40"/>
@@ -20,12 +20,15 @@ ___
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" width="40"/>
 
 ___
-### Прохожу курсы
+### Прохожу курсы  
+- RedRover.SCHOOL  ([ссылка]([https://qa.guru/](https://redrover.school/ru))) стэк:
+<p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40"/>
 
 ___
-### Планирую пройти курсы
+### Планирую пройти курсы  
+- QA.GURU Advance
 
 
 <!--
