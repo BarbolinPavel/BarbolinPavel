@@ -10,7 +10,7 @@ ___
 
 ___
 ### Пройденные курсы  
-- QA.GURU  ([ссылка](https://qa.guru/)) стэк:
+- **QA.GURU**  ([ссылка](https://qa.guru/)) стэк:
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40"/>
@@ -21,14 +21,14 @@ ___
 
 ___
 ### Прохожу курсы  
-- RedRover.SCHOOL  ([ссылка]([https://qa.guru/](https://redrover.school/ru))) стэк:
+- **RedRover.SCHOOL**  ([ссылка]([https://qa.guru/](https://redrover.school/ru))) стэк:
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="40"/>
 
 ___
 ### Планирую пройти курсы  
-- QA.GURU Advance
+- **QA.GURU Advance**
 
 
 <!--
